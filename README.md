@@ -32,10 +32,9 @@ A lightweight, fast, and customizable React starter kit. This minimalist toolkit
 
 # Clone the repository
 
-git clone https://github.com/yourusername/react-lite-app-startkit.git
+git clone https://github.com/rayanalheraki/react-lite-app-startkit.git
 
 cd react-lite-app-startkit
-
 
 
 # Install dependencies
