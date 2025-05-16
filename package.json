@@ -1,5 +1,5 @@
 {
-  "name": "react-lite-app-startkit",
+  "name": "react-lite-starter-kit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,7 @@
     "@babel/core": "^7.27.1",
     "@babel/preset-env": "^7.27.2",
     "@babel/preset-react": "^7.27.1",
+    "@eslint/js": "^9.26.0",
     "css-loader": "^7.1.2",
     "esbuild-loader": "^4.3.0",
     "eslint": "^9.26.0",
@@ -32,6 +33,7 @@
     "eslint-plugin-sonarjs": "^3.0.2",
     "eslint-plugin-unicorn": "^59.0.1",
     "eslint-webpack-plugin": "^5.0.1",
+    "globals": "^16.1.0",
     "html-webpack-plugin": "^5.6.3",
     "prettier": "^3.5.3",
     "style-loader": "^4.0.0",
